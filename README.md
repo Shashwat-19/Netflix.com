@@ -1,6 +1,6 @@
 # Netflix.com Clone
 
-![Netflix Logo] (https://github.com/Shashwat-19/Netflix.com/blob/main/Logo-netflix.jpg)
+![Netflix Logo](https://github.com/Shashwat-19/Netflix.com/raw/main/Logo-netflix.jpg)
 
 ## Description
 

@@ -30,3 +30,15 @@ To view the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Shashwat-19/Netflix.com.git
+
+Contributing
+Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Inspired by the Netflix streaming service.
+Special thanks to all the resources and tutorials that helped in building this project.
+Contact
+For any inquiries or feedback, please reach out to me at your-email@example.com (replace with your actual email).

@@ -1,6 +1,6 @@
 # Netflix.com Clone
 
-![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Netflix_2015_logo.svg)
+![Netflix Logo]
 
 ## Description
 
@@ -19,9 +19,6 @@ This project is a clone of the popular streaming service Netflix, built using on
 - **HTML**: For structuring the content of the website.
 - **CSS**: For styling and layout, ensuring a visually appealing design.
 
-## Live Demo
-
-You can view the live demo of the project [here](https://your-live-demo-link.com) (replace with your actual live demo link if applicable).
 
 ## Installation
 
@@ -41,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Inspired by the Netflix streaming service.
 Special thanks to all the resources and tutorials that helped in building this project.
 ## Contact
-For any inquiries or feedback, please reach out to me at your-email@example.com (replace with your actual email).
+For any inquiries or feedback, please reach out to me at shashwat1956@gmail.com

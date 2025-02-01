@@ -4,11 +4,6 @@
 
 Welcome to the **Netflix.com Clone** – a fully responsive replica of the popular streaming service Netflix, built using only HTML and CSS. This project aims to showcase a clean and modern UI with interactive elements.
 
-## 📦 Latest Release: v1.0
-
-Netflix.com Clone v1.0 is now live! 🎉
-This version includes a fully responsive design with an intuitive and engaging user interface.
-
 ## ✨ Features
 
 - ✅ Fully Responsive – Works seamlessly on all devices.

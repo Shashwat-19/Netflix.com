@@ -1,6 +1,6 @@
 # Netflix.com Clone 🎬🍿
 
-![Netflix Logo](https://github.com/Shashwat-19/Netflix.com/raw/main/Logo-netflix.jpg)
+![Netflix Logo](https://github.com/Shashwat-19/Netflix.com/raw/main/Assets/Logo-netflix.jpg)
 
 Welcome to the **Netflix.com Clone** – a fully responsive replica of the popular streaming service Netflix, built using only HTML and CSS. This project aims to showcase a clean and modern UI with interactive elements.
 
